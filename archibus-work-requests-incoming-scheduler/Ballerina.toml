@@ -1,0 +1,8 @@
+[package]
+org = "universityofedinburgh"
+name = "archibus_work_requests_incoming_scheduler"
+version = "0.1.0"
+distribution = "2201.9.2"
+
+[build-options]
+observabilityIncluded = true
